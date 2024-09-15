@@ -14,4 +14,5 @@ Thermoacoustic effects are used to make a device that can detect temperature. Wh
 Thermal topology optimization. For example, when computers and smartphones are used intensively, a lot of heat will be generated, which will cause their performance to decline and reduce their lifespan. Therefore, I think that the internal heat dissipation modules can be optimized through topology optimization to quickly find the optimal material distribution and improve heat transfer efficiency, thereby reducing energy consumption.
 * 3、计划设计一种小型的综合海洋求生装备，用于海上救生艇。这个装备可以进行海水淡化，为小型救生艇提供淡水，这种装备也能通过太阳能和海水化学能发电，驱动LED灯等电器。
 It is planned to design a small integrated Marine survival kit for use in sea lifeboats. The device can desalinate seawater and provide fresh water for small lifeboats. The device can also generate electricity from solar and seawater chemical energy and drive electrical appliances such as LED lights
+
 ![](https://i-blog.csdnimg.cn/blog_migrate/e675d24d7064a7bec81a96f57de05e3f.png)
